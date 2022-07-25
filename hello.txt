@@ -1,6 +1,6 @@
 hello world  22 
 hello git    33
-hello world  hit-fix test
+hello world  master test
 hello world
 hello world
 hello world
